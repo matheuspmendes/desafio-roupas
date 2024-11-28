@@ -6,7 +6,7 @@ Adicionalmente, foi pedido uma verificação e avaliação do trimestre anterior
 
 Este projeto se passa inteiramente em PowerBI, desde a exportação de dados csv, modelagem no PowerQuery, criação de medidas DAX e visualização nos Dashboards.
 
-Todas as análises e resultados estarão presentes no Dashboard no PowerBI, que pode ser acessado através deste [link]([[https://app.powerbi.com/view?r=eyJrIjoiZDUwMWVmMDUtNmQ4Ny00MzNmLWI3Y2MtMzJkNmJmNjM5N2Y4IiwidCI6IjI1Y2VlODZhLTBmYzUtNDRiNC1iOWQwLWE5NzA4YWVkMjg1MyJ9](https://app.powerbi.com/view?r=eyJrIjoiOGZiZjMxNzktM2ExYi00NTY2LWJiZjEtNzk2ZDExZTJlZDZjIiwidCI6IjI1Y2VlODZhLTBmYzUtNDRiNC1iOWQwLWE5NzA4YWVkMjg1MyJ9)](https://app.powerbi.com/view?r=eyJrIjoiOGZiZjMxNzktM2ExYi00NTY2LWJiZjEtNzk2ZDExZTJlZDZjIiwidCI6IjI1Y2VlODZhLTBmYzUtNDRiNC1iOWQwLWE5NzA4YWVkMjg1MyJ9&pageName=a517dd1e1e374227378c)).
+Todas as análises e resultados estarão presentes no Dashboard no PowerBI, que pode ser acessado através deste [link]([https://app.powerbi.com/view?r=eyJrIjoiZDUwMWVmMDUtNmQ4Ny00MzNmLWI3Y2MtMzJkNmJmNjM5N2Y4IiwidCI6IjI1Y2VlODZhLTBmYzUtNDRiNC1iOWQwLWE5NzA4YWVkMjg1MyJ9]).
 
 ## Estudo de caso
 
@@ -23,5 +23,6 @@ Faturamento, vendas, quantidade de clientes, desempenho dos vendedores sao ponto
 - Tive uma queda no faturamento do Trimestre anterior, o que pode ter acontecido?
 
 Para fins de visualização, será anexado imagens do Dashboard abaixo:
-![Painel-darkmode](./painel-dark-mode.png)
-![Painel-lightmode](./painel-light-mode.png)
+![Painel-geral](./painel-1.png)
+![Painel-vendedores](./painel-2.png)
+![Painel-produtos](./painel-3.png)
